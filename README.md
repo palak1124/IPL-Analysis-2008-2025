@@ -33,7 +33,7 @@ Developed an interactive Power BI dashboard offering:
 
 This dashboard serves as a valuable tool for analysts, team managers, and enthusiasts to explore IPL data interactively.
 
-**Impact / Key Takeaways**
+# **Impact / Key Takeaways**
 
 **Performance Insights:** Identified top-performing teams and players over 17 seasons, helping understand long-term trends in wins, runs, and wickets.
 
